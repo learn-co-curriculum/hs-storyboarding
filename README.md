@@ -1,8 +1,4 @@
----
-tags: ideaology, kids, storyboard
-languages: storyboarding
-type: ideaology
----
+
 
 ## Story Time
 
