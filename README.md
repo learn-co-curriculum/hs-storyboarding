@@ -13,3 +13,5 @@ Because of that, we’re going to use Gliffy to build a flowchart.
 
 
 **2.** What about the text for each different option? The text for the two different paths needs to be short. You want to intrigue your reader with a glimpse of where the paths will lead them, without giving it all away until they click and choose.
+
+<a href='https://learn.co/lessons/hs-storyboarding' data-visibility='hidden'>View this lesson on Learn.co</a>
